@@ -1,1 +1,2 @@
 # Airchains SDK
+Airchains is a web3 SaaS platform designed for quick deployment of app specific blockchain, rollups, Block Explorer in just few clicks for developers, enterprises, & institutions to easily build and run their own blockchain networks and tools to build dApps over it
