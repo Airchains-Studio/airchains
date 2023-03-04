@@ -1,0 +1,27 @@
+{
+  "name": "airchains-sdk",
+  "version": "1.0.0",
+  "description": "To interface with Airchains, use the NPM package and CLI tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airchains-Studio/airchains.git"
+  },
+  "keywords": [
+    "Airchains",
+    "SDK",
+    "IPFS",
+    "NFT",
+    "Smart",
+    "Contracts"
+  ],
+  "author": "Airchains Network Ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Airchains-Studio/airchains/issues"
+  },
+  "homepage": "https://github.com/Airchains-Studio/airchains#readme"
+}
